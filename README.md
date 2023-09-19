@@ -11,6 +11,3 @@
 ![Resim Açıklaması](https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.29%20AM.jpeg)
 ![Resim Açıklaması](https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.29%20AM%20(2).jpeg)
 ![Resim Açıklaması](https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.29%20AM%20(1).jpeg)
-![Resim Açıklaması]()
-![Resim Açıklaması]()
-![Resim Açıklaması]()
