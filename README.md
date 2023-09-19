@@ -15,8 +15,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.33%20AM.jpeg" width=270 height=510></td>
-    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.32%20AM.jpeg" width=270 height=510></td>
-    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.32%20AM%20(1).jpeg" width=270 height=510></td>
+    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.33%20AM.jpeg" width=270 height=520></td>
+    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.32%20AM.jpeg" width=270 height=520></td>
+    <td><img src="https://github.com/mrkzqsmv/Login-and-Register-pages-with-Flutter-and-Dart/blob/main/images/WhatsApp%20Image%202023-09-19%20at%209.24.32%20AM%20(1).jpeg" width=270 height=520></td>
   </tr>
  </table>
